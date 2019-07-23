@@ -4,13 +4,13 @@ WIMMA Lab is a two and a half month project where students of JAMK University of
 
 WIMMA Lab's website: [www.wimmalab.org](wimmalab.org)
 
-I was part of Pengwin Media team as Web Designer. Our mission was to produce graphics and visualizations for other teams working at WIMMA lab. We updated social media channels and improved the WIMMA Lab brand. 
+I was part of Pengwin Media team as a Web Designer. Our mission was to produce graphics and visualizations for other teams working at WIMMA Lab. We updated social media channels and improved the WIMMA Lab brand. 
 
 Pengwin Media's website: [pengwin.wimmalab.org](pengwin.wimmalab.org)
 
 My tasks done in WIMMA Lab 2019: diagrams, flyers, websites, mockups, logos, brandbook...
 
-Team Overflow was working on an airsoft management system called TACS. I did most of their graphics such as logo and a mockup for TACS.
+Team Overflow was working on an airsoft management system called TACS. I did most of Overflow's graphics and made a logo and a mockup for TACS.
 
 TACS mockup: [TACS](https://www.figma.com/file/EXOxSMMolAkhfWCIDobXo3oe/TACS?node-id=0%3A1)
 
